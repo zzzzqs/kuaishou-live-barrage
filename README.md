@@ -1,3 +1,6 @@
+### 已失效，不再更新
+
+
 # kuaishou-live-barrage
 
 
